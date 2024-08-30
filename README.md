@@ -1,4 +1,4 @@
-# OIBSIB
+# OIB-SIP
 Oasis Infobyte Internship Projects
 Oasis Infobyte has provided me the opportunity to work on my Web Development and Designing skills, by allotting me three projects:
 
